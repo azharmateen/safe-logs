@@ -1,5 +1,8 @@
 # safe-logs
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 Automatically detect and redact secrets, API keys, and PII from terminal output, logs, and files. Never accidentally leak credentials again.
 
 ## Installation
